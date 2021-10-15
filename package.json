@@ -1,0 +1,25 @@
+{
+  "name": "neo4j-g6-app",
+  "version": "0.0.1",
+  "description": "Attempt at making a graph visualisation app for Neo4j databases with Ant Design and AntV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckanz/neo4j-g6-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckanz/neo4j-g6-app/issues"
+  },
+  "homepage": "https://github.com/ckanz/neo4j-g6-app#readme",
+  "dependencies": {
+    "@antv/g6": "^4.3.11",
+    "antd": "^4.16.13",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
